@@ -39,7 +39,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  #email: "tanisharas@gmail.com"
+  email: "tanisharas@gmail.com"
   facebook: Tanisha Rastogi
   github: tanisha088
   twitter: Tanisha1
@@ -47,12 +47,12 @@ social-network-links:
  # youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-  #linkedin: tanisha
+   linkedin: Tanisha Rastogi
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
-  # spotify: tanisha
+ spotify: tanii08
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
